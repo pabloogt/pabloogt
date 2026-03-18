@@ -1,7 +1,7 @@
 ## Hola, soy Pablo 👋
 
 ### Sobre mí
-Soy desarrollador y he terminado el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM). Actualmente, estoy finalizando el ciclo de Desarrollo de Aplicaciones Web (DAW).
+Graduado en Desarrollo de aplicaciones multiplataformas(DAM) y Desarrollo de aplicaciones web(DAW). Actualmente me encuentro haciendo la especialización de ciberseguridad(ESCIB)
 
 ### Tecnologías que conozco
 
@@ -10,6 +10,7 @@ Soy desarrollador y he terminado el ciclo de Desarrollo de Aplicaciones Multipla
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### Backend:
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
